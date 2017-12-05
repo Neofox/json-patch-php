@@ -1,6 +1,6 @@
 {
-  "name": "mikemccabe/json-patch-php",
-  "description": "Produce and apply json-patch objects",
+  "name": "neofox/json-patch-php",
+  "description": "Produce and apply json-patch objects fork of mikemccabe project ",
   "type": "library",
   "license": "LGPL-3.0",
   "autoload": {
